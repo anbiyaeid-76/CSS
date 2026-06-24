@@ -1,0 +1,9 @@
+body{
+    background-color: blue;
+    color: #fff;
+    background-image: url(https://i.pinimg.com/736x/95/4c/6d/954c6da2f6d8326067e9e63a3e2ea7f3.jpg);
+    background-repeat: no-repeat ;  
+    background-position: top right;
+    background-position: center center;
+    background-size: cover;
+}
