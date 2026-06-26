@@ -1,0 +1,12 @@
+body{
+/* font-family:ole; */
+}
+h1{
+    font-size: 100px ;
+    font-style: italic ;
+}
+
+span{
+    font-weight: bold;
+    font-variant: small-caps;
+}
